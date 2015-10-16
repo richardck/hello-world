@@ -1,4 +1,4 @@
 # hello-world
 Repo for running Hello World tutorial
 
-This is the compulsory ReadMe file as automtically created by GitHub.
+This is the compulsory ReadMe file as automatically created by GitHub.
